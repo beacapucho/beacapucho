@@ -1,7 +1,7 @@
 ### Oie, eu sou a Beatriz Capucho! 👋
 
 - 🌱 Estudante e futura Desenvolvedora de Software
-- 📚 Atualmente estou aprendendo: HTML, CSS, C, e Java...
+- 📚 Atualmente estou aprendendo: HTML, CSS, C, e JavaScript...
 
 ##
 
